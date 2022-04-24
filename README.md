@@ -8,8 +8,8 @@ chewBBACA
 To download ChewBBACA access the link:
 https://github.com/B-UMMI/chewBBACA_tutorial
 
-Softwares and Downloads
-conda install ChewBBACA
+* Softwares and Downloads
+* conda install ChewBBACA
 
 Workflow used to create the scheme
 * Step 1: Scheme Creation of cgMLST
@@ -42,7 +42,7 @@ chewBBACA.py AlleleCall -i publicly-available-genome -g schema_seed/ -o results_
 ```
 The allele calling used the default BLAST Score Ratio (BSR) threshold of 0.6.
 
-Step 2.1: Paralog detection
+# Step 2.1: Paralog detection
 In this step genes considered paralogous from result of the allelecall (see above) are removed
 Command:
 ```
@@ -51,7 +51,7 @@ chewBBACA.py RemoveGenes -i results_cg/results_ 20220321T145123/results_alleles.
 ```
 In this step, 66 genes were identified as possible paralogs and were removed from further analysis.
 
-Step 2.2: Genome Quality Control
+# Step 2.2: Genome Quality Control
 In this step we define a Threshold for the scheme that limits the loss of loci targets defined in the previous steps per genome and excludes genomes considered to be of low quality due to significant loci absence.
 With this analysis we define the percentage of loci that will constitute the scheme based on how many targets we want to keep in this phase. For example, 100%, 99.5%, 99% and 95% of the loci may present in the set of high-quality genomes. This is one of the main steps in defining the cgMLST scheme targets.
 Command:
@@ -67,7 +67,7 @@ chewBBACA.py ExtractCgMLST -i alleleCallMatrix_cg.tsv -o cgMLST_15 --g GenomeRem
 ```
 This script selects all * loci * present in the selected * Threshold *. The value * t * is associated with the percentage of * loci * we want to be present in the set of genomes, for example: * t 1.0 * selects all * loci * present in the * Threshold * chosen in all genomes ie those present in 100% of genomes at that * Threshold *. Subsequently a cgMLST_15 folder receives the result of the allelic profile for each of the 1917 candidate * loci * (allelic profile matrix). The file in this folder (cgMLST.tsv) contains the allelic profile of 1917 selected * loci * and will be used to create the core gene list.
 
-Step 2.3: Creating the core gene list
+# Step 2.3: Creating the core gene list
 This command selects all target genes from the "cgMLST.tsv" spreadsheet.
 ```
 head -n 1 cgMLST.tsv > Genes_95%_Core_15.txt
@@ -95,7 +95,7 @@ chewBBACA.py AlleleCall -i ../Genomes_Validation/ --gl list_genes_core.txt -o ..
 ```
 The folder Genomes_Validation contains the 32 validation genomes used for validation of the scheme.
 
-Step 3.1: Concatenate the allelic profiles
+# Step 3.1: Concatenate the allelic profiles
 The purpose of this step is to concatenate the matrix of the loci that defined the scheme and the matrix of the loci from the validation genomes. Thus, to concatenate the allelic profile matrix obtained from the creation of the scheme cgMLST_15/cgMLST.tsv with the matrix obtained for the validation genomes results_all/results_20220321T170302/results_alleles.tsv. The following command was used:
 Command:
 ```
@@ -108,7 +108,7 @@ grep -v ^FILE cgMLST_15/cgMLST.tsv results_all/results_ 20220321T170302/results_
 ```
 cgMLST_all.tsv file (cgMLST_all.tsv) contains the allelic profile of the 32 validation genomes.
 
-Step 3.2: Evaluation of genome quality
+# Step 3.2: Evaluation of genome quality
 After concatenation, we used the TestGenomeQuality to assess the impact of each validation genome on candidate loci in order to exclude low quality validation genomes. In this step you may need to define a new Threshold, as well as a new value of the parameter t, because loci that remain after the filters are the ones that will constituted the final scheme.
 ```
 chewBBACA.py TestGenomeQuality -i cgMLST_all.tsv -n 13 -t 300 -s 5
