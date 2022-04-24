@@ -79,8 +79,8 @@ Command:
 datamash -W transpose < Genes_95%_Core_15.txt > Genes_Core_Al.txt 
 ```
 This step generated the file > Genes_Core_Al.txt
-You can see the list file with 1917 target genes at results_cg/Genes_Core_Al.txt and for the subsequent steps we added the full path to each locus fasta file.
-This list results_cg/Genes_Core_Al.txt was then modified so that each name was preceeded by schema_seed:
+You can see the list file with 1917 target genes at Genes_Core_Al.txt and for the subsequent steps we added the full path to each locus fasta file.
+This list Genes_Core_Al.txt was then modified so that each name was preceeded by schema_seed:
 Command:
 ```
 tail -n+1 Genes_Core_Al.txt | cut -f2 | perl -pe 's: :\n:g' | sort -Vu | awk '{print("schema_seed/"$1)}' > list_genes_core.txt
