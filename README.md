@@ -126,7 +126,7 @@ The folder with the output file can be found at: cgMLST_110. This folder contain
 The cgMLST targets can be found at: cgMLST_110/cgMLSTschema.txt It contains the list of 1776 genes in the core genome defined as targets for this scheme. 
 
 # Step 5: Minimum Spanning Tree
-For the visualization of results, minimum spanning trees were buitl. Based on the allelic profiles obtained by the cgMLST scheme for each of the 268 genomes minimum spanning trees (MST) were constructed using the software GrapeTree (version 2.1.0) (https://github.com/achtman-lab/GrapeTree/releases) with parameters implemented in MSTree v2 ignoring missing values for the entire strain collection. The cgMLST_110/cgMLST.tsv file contains the allelic profile of the 268 genomes typed by cgMLST.
+For the visualization of results, minimum spanning trees were built. Based on the allelic profiles obtained by the cgMLST scheme for each of the 268 genomes minimum spanning trees (MST) were constructed using the software GrapeTree (version 2.1.0) (https://github.com/achtman-lab/GrapeTree/releases) with parameters implemented in MSTree v2 ignoring missing values for the entire strain collection. The cgMLST_110/cgMLST.tsv file contains the allelic profile of the 268 genomes typed by cgMLST.
 
 # Step 6: Graphical evaluation of the scheme
 To assess the variability of the gene targets of cgMLST as well explore and evaluate the type and extent of allelic variation detected in each of the chosen loci. We run this script and graphically visualize the data in a series of html files.
