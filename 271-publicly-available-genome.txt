@@ -1,0 +1,272 @@
+Organism	Strain	GenBank	GenBank	BioSample	BioProject	collection date	geographic location	host	isolation source
+Corynebacterium striatum	ATCC 6940	GCA_000159135.1	GCA_000159135.1	SAMN00001507	PRJNA31449	unknown	missing	Homo sapiens	missing
+Corynebacterium striatum	1961	GCA_000988225.1	GCA_000988225.1	SAMN03458462	PRJNA280207	unknown	Brazil	Homo sapiens	urine
+Corynebacterium striatum	1327_CAUR	GCA_001053405.1	GCA_001053405.1	SAMN03197307	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	1329_CAUR	GCA_001053435.1	GCA_001053435.1	SAMN03197309	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	587_CAUR	GCA_001055405.1	GCA_001055405.1	SAMN03197788	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	797_CAUR	GCA_001058455.1	GCA_001058455.1	SAMN03198009	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	962_CAUR	GCA_001059665.1	GCA_001059665.1	SAMN03198182	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	963_CAUR	GCA_001059955.1	GCA_001059955.1	SAMN03198183	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	542_CAUR	GCA_001076975.1	GCA_001076975.1	SAMN03197740	PRJNA267549	unknown	USA: WA	Homo sapiens	missing
+Corynebacterium striatum	KC-Na-01	GCA_002156805.1	GCA_002156805.1	SAMN07109493	PRJNA386621	2017	South Korea: South sea	Neophocaena asiaeorientalis	Blowhole swab
+Corynebacterium striatum	2230	GCA_002775055.1	GCA_002775055.1	SAMN04517755	PRJNA313269	unknown	Brazil: Rio de Janeiro	Homo sapiens	blood
+Corynebacterium striatum	2247	GCA_002775105.1	GCA_002775105.1	SAMN04517757	PRJNA313272	unknown	Brazil:Rio de Janeiro	Homo sapiens	NA
+Corynebacterium striatum	215	GCA_002803965.1	GCA_002803965.1	SAMN05374476	PRJNA278886	2016	USA:Boston	Homo sapiens	sputum
+Corynebacterium striatum	216	GCA_002804085.1	GCA_002804085.1	SAMN05178544	PRJNA278886	2016	USA:Boston	Homo sapiens	tracheal aspirate
+Corynebacterium striatum	2023	GCA_002865925.1	GCA_002865925.1	SAMN03490149	PRJNA281414	2009	Brazil: teaching hospital in Rio de Janeiro	Homo sapiens	patients
+Corynebacterium striatum	2130	GCA_003202245.1	GCA_003202245.1	SAMN07532617	PRJNA399282	2010	Brazil: Rio de Janeiro	Homo sapiens	blood
+Corynebacterium striatum	2296	GCA_003202295.1	GCA_003202295.1	SAMN07533541	PRJNA399337	2011	Brazil: Rio de Janeiro	Homo sapiens	Venous cateter
+Corynebacterium striatum	2425	GCA_003202355.1	GCA_003202355.1	SAMN07535082	PRJNA399495	2012	Brazil: Rio de Janeiro	Homo sapiens	blood
+Corynebacterium striatum	WP1a	GCA_004138065.1	GCA_004138065.1	SAMN10723573	PRJNA420593	2013	USA: Missouri	Homo sapiens	bloodstream of patient with high level daptomycin resistance
+Corynebacterium striatum	NBRC 15291	GCA_006538485.1	GCA_006538485.1	SAMD00169825	PRJDB8042	unknown	missing	missing	missing
+Corynebacterium striatum	LK37	GCA_008373895.1	GCA_008373895.1	SAMN10134347	PRJNA506988	2011	USA	Homo sapiens	foot ulcer
+Corynebacterium striatum	CSc20	GCA_011682935.1	GCA_011682935.1	SAMN11811890	PRJNA544998	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	NSCs20	GCA_011682945.1	GCA_011682945.1	SAMN11811889	PRJNA544998	2018	China: Beijing	Homo sapiens	nasopharynx
+Corynebacterium striatum	CSc27	GCA_011682965.1	GCA_011682965.1	SAMN11811888	PRJNA544998	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	NSCs27	GCA_011682985.1	GCA_011682985.1	SAMN11811887	PRJNA544998	2018	China: Beijing	Homo sapiens	nasopharynx
+Corynebacterium striatum	1954	GCA_014610855.1	GCA_014610855.1	SAMN08013311	PRJNA418005	2009	Brazil: Rio de Janeiro	Homo sapiens	Surgical wound secretion
+Corynebacterium striatum	2038	GCA_014610885.1	GCA_014610885.1	SAMN08013312	PRJNA418004	2009	Brazil: Rio de Janeiro	Homo sapiens	blood
+Corynebacterium striatum	ICDC.Cs136	GCA_015889045.1	GCA_015889045.1	SAMN12388656	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs361	GCA_015889065.1	GCA_015889065.1	SAMN12388708	SAMN12388708	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs118	GCA_015889085.1	GCA_015889085.1	SAMN12388650	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs103	GCA_015889105.1	GCA_015889105.1	SAMN12388648	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs101	GCA_015889125.1	GCA_015889125.1	SAMN12388647	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs110	GCA_015889145.1	GCA_015889145.1	SAMN12388649	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs539	GCA_015889225.1	GCA_015889225.1	SAMN12388783	PRJNA514245	2018	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs534	GCA_015889245.1	GCA_015889245.1	SAMN12388778	PRJNA514245	2018	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs536	GCA_015889265.1	GCA_015889265.1	SAMN12388780	PRJNA514245	2018	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs017	GCA_015889285.1	GCA_015889285.1	SAMN12388620	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs541	GCA_015889305.1	GCA_015889305.1	SAMN12388785	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs127	GCA_015889325.1	GCA_015889325.1	SAMN12388653	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs125	GCA_015889345.1	GCA_015889345.1	SAMN12388651	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs538	GCA_015889355.1	GCA_015889355.1	SAMN12388782	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs535	GCA_015889385.1	GCA_015889385.1	SAMN12388779	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs358	GCA_015889405.1	GCA_015889405.1	SAMN12388706	PRJNA514245	2017	China: Beijing	patient	cerebrospinal fluid
+Corynebacterium striatum	ICDC.Cs421	GCA_015889425.1	GCA_015889425.1	SAMN12388754	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs130	GCA_015889445.1	GCA_015889445.1	SAMN12388654	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs540	GCA_015889455.1	GCA_015889455.1	SAMN12388784	PRJNA514245	2017	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs533	GCA_015889485.1	GCA_015889485.1	SAMN12388777	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs419	GCA_015889505.1	GCA_015889505.1	SAMN12388752	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs420	GCA_015889525.1	GCA_015889525.1	SAMN12388753	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs544	GCA_015889535.1	GCA_015889535.1	SAMN12388786	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs280	GCA_015889565.1	GCA_015889565.1	SAMN12388684	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs418	GCA_015889575.1	GCA_015889575.1	SAMN12388751	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs415	GCA_015889605.1	GCA_015889605.1	SAMN12388748	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs030	GCA_015889625.1	GCA_015889625.1	SAMN12388625	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs279	GCA_015889645.1	GCA_015889645.1	SAMN12388683	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs414	GCA_015889655.1	GCA_015889655.1	SAMN12388747	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs422	GCA_015889685.1	GCA_015889685.1	SAMN12388755	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs416	GCA_015889705.1	GCA_015889705.1	SAMN12388749	PRJNA514245	2018	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs424	GCA_015889725.1	GCA_015889725.1	SAMN12388756	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs271	GCA_015889745.1	GCA_015889745.1	SAMN12388681	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs091	GCA_015889765.1	GCA_015889765.1	SAMN12388645	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs095	GCA_015889785.1	GCA_015889785.1	SAMN12388646	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs064	GCA_015889805.1	GCA_015889805.1	SAMN12388636	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs398	GCA_015889825.1	GCA_015889825.1	SAMN12388736	PRJNA514245	2017	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs061	GCA_015889845.1	GCA_015889845.1	SAMN12388635	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs394	GCA_015889885.1	GCA_015889885.1	SAMN12388733	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs389	GCA_015889905.1	GCA_015889905.1	SAMN12388729	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs387	GCA_015889925.1	GCA_015889925.1	SAMN12388727	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs396	GCA_015889945.1	GCA_015889945.1	SAMN12388735	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs013	GCA_015889965.1	GCA_015889965.1	SAMN12388619	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs072	GCA_015889985.1	GCA_015889985.1	SAMN12388639	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs004	GCA_015890005.1	GCA_015890005.1	SAMN12388618	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs070	GCA_015890025.1	GCA_015890025.1	SAMN12388638	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs067	GCA_015890045.1	GCA_015890045.1	SAMN12388637	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs087	GCA_015890065.1	GCA_015890065.1	SAMN12388643	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs384	GCA_015890085.1	GCA_015890085.1	SAMN12388725	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs089	GCA_015890105.1	GCA_015890105.1	SAMN12388644	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs079	GCA_015890125.1	GCA_015890125.1	SAMN12388642	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs257	GCA_015890145.1	GCA_015890145.1	SAMN12388677	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs259	GCA_015890165.1	GCA_015890165.1	SAMN12388678	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs374	GCA_015890185.1	GCA_015890185.1	SAMN12388718	PRJNA514245	2017	"	China: Tangshan"	patient	Cather Tip
+Corynebacterium striatum	ICDC.Cs076	GCA_015890205.1	GCA_015890205.1	SAMN12388641	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs375	GCA_015890225.1	GCA_015890225.1	SAMN12388719	PRJNA514245	2017	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs372	GCA_015890245.1	GCA_015890245.1	SAMN12388717	PRJNA514245	2017	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs377	GCA_015890265.1	GCA_015890265.1	SAMN12388721	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs379	GCA_015890285.1	GCA_015890285.1	SAMN12388722	PRJNA514245	2017	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs381	GCA_015890305.1	GCA_015890305.1	SAMN12388724	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs380	GCA_015890325.1	GCA_015890325.1	SAMN12388723	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs386	GCA_015890345.1	GCA_015890345.1	SAMN12388726	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs058	GCA_015890365.1	GCA_015890365.1	SAMN12388634	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs054	GCA_015890375.1	GCA_015890375.1	SAMN12388633	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs053	GCA_015890405.1	GCA_015890405.1	SAMN12388632	SAMN12388632	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs050	GCA_015890425.1	GCA_015890425.1	SAMN12388631	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs045	GCA_015890445.1	GCA_015890445.1	SAMN12388630	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs039	GCA_015890465.1	GCA_015890465.1	SAMN12388628	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs042	GCA_015890485.1	GCA_015890485.1	SAMN12388629	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs247	GCA_015890505.1	GCA_015890505.1	SAMN12388675	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs038	GCA_015890525.1	GCA_015890525.1	SAMN12388627	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs363	GCA_015890545.1	GCA_015890545.1	SAMN12388710	PRJNA514245	2017	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs457	GCA_015890565.1	GCA_015890565.1	SAMN12388760	PRJNA514245	2018	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs454	GCA_015890585.1	GCA_015890585.1	SAMN12388759	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs360	GCA_015890605.1	GCA_015890605.1	SAMN12388707	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs482	GCA_015890625.1	GCA_015890625.1	SAMN12388765	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs516	GCA_015890645.1	GCA_015890645.1	SAMN12388766	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs283	GCA_015890655.1	GCA_015890655.1	SAMN12388685	PRJNA514245	2017	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs355	GCA_015890685.1	GCA_015890685.1	SAMN12388703	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs234	GCA_015890705.1	GCA_015890705.1	SAMN12388674	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs024	GCA_015890725.1	GCA_015890725.1	SAMN12388622	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs286	GCA_015890745.1	GCA_015890745.1	SAMN12388688	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs288	GCA_015890765.1	GCA_015890765.1	SAMN12388690	PRJNA514245	2017	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs348	GCA_015890785.1	GCA_015890785.1	SAMN12388698	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs290	GCA_015890805.1	GCA_015890805.1	SAMN12388692	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs285	GCA_015890825.1	GCA_015890825.1	SAMN12388687	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs370	GCA_015890845.1	GCA_015890845.1	SAMN12388715	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs032	GCA_015890865.1	GCA_015890865.1	SAMN12388626	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs262	GCA_015890885.1	GCA_015890885.1	SAMN12388679	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs020	GCA_015890905.1	GCA_015890905.1	SAMN12388621	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs518	GCA_015890925.1	GCA_015890925.1	SAMN12388767	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs521	GCA_015890945.1	GCA_015890945.1	SAMN12388768	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs529	GCA_015890965.1	GCA_015890965.1	SAMN12388774	PRJNA514245	2018	China: Guangzhou	patient	blood
+Corynebacterium striatum	ICDC.Cs352	GCA_015890985.1	GCA_015890985.1	SAMN12388701	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs528	GCA_015891005.1	GCA_015891005.1	SAMN12388773	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs522	GCA_015891025.1	GCA_015891025.1	SAMN12388769	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs527	GCA_015891045.1	GCA_015891045.1	SAMN12388772	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs350	GCA_015891065.1	GCA_015891065.1	SAMN12388699	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs351	GCA_015891085.1	GCA_015891085.1	SAMN12388700	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs525	GCA_015891105.1	GCA_015891105.1	SAMN12388771	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs532	GCA_015891125.1	GCA_015891125.1	SAMN12388776	PRJNA514245	2018	"	China: Guangzhou"	patient	sputum
+Corynebacterium striatum	ICDC.Cs524	GCA_015891145.1	GCA_015891145.1	SAMN12388770	PRJNA514245	2018	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs291	GCA_015891165.1	GCA_015891165.1	SAMN12388693	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs003	GCA_015891185.1	GCA_015891185.1	SAMN12388617	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs287	GCA_015891205.1	GCA_015891205.1	SAMN12388689	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs209	GCA_015891225.1	GCA_015891225.1	SAMN12388670	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs029	GCA_015891245.1	GCA_015891245.1	SAMN12388624	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs025	GCA_015891265.1	GCA_015891265.1	SAMN12388623	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs295	GCA_015891285.1	GCA_015891285.1	SAMN12388696	PRJNA514245	2017	China: Guangzhou	patient	sputum
+Corynebacterium striatum	ICDC.Cs368	GCA_015891305.1	GCA_015891305.1	SAMN12388714	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs294	GCA_015891325.1	GCA_015891325.1	SAMN12388695	PRJNA514245	2017	China: Guangzhou	patient	blood
+Corynebacterium striatum	ICDC.Cs365	GCA_015891345.1	GCA_015891345.1	SAMN12388712	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs232	GCA_015891365.1	GCA_015891365.1	SAMN12388673	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs461	GCA_015891385.1	GCA_015891385.1	SAMN12388761	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs275	GCA_015891405.1	GCA_015891405.1	SAMN12388682	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs479	GCA_015891425.1	GCA_015891425.1	SAMN12388764	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs470	GCA_015891445.1	GCA_015891445.1	SAMN12388763	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs468	GCA_015891465.1	GCA_015891465.1	SAMN12388762	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs202	GCA_015891485.1	GCA_015891485.1	SAMN12388667	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs364	GCA_015891505.1	GCA_015891505.1	SAMN12388711	PRJNA514245	2017	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs205	GCA_015891525.1	GCA_015891525.1	SAMN12388669	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs426	GCA_015891545.1	GCA_015891545.1	SAMN12388757	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs199	GCA_015891565.1	GCA_015891565.1	SAMN12388666	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs399	GCA_015891585.1	GCA_015891585.1	SAMN12388737	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs184	GCA_015891605.1	GCA_015891605.1	SAMN12388665	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs248	GCA_015891665.1	GCA_015891665.1	SAMN12388676	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs151	GCA_015891685.1	GCA_015891685.1	SAMN12388661	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs138	GCA_015891745.1	GCA_015891745.1	SAMN12388657	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs169	GCA_015891765.1	GCA_015891765.1	SAMN12388663	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs172	GCA_015891785.1	GCA_015891785.1	SAMN12388664	PRJNA514245	2016	China: Beijing	patient	urine
+Corynebacterium striatum	ICDC.Cs149	GCA_015891805.1	GCA_015891805.1	SAMN12388660	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs140	GCA_015891815.1	GCA_015891815.1	SAMN12388658	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs145	GCA_015891845.1	GCA_015891845.1	SAMN12388659	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs211	GCA_015891865.1	GCA_015891865.1	SAMN12388671	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs410	GCA_015891885.1	GCA_015891885.1	SAMN12388743	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs225	GCA_015891905.1	GCA_015891905.1	SAMN12388672	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs411	GCA_015891925.1	GCA_015891925.1	SAMN12388744	PRJNA514245	2018	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs405	GCA_015891945.1	GCA_015891945.1	SAMN12388741	PRJNA514245	2018	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs404	GCA_015891965.1	GCA_015891965.1	SAMN12388740	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs413	GCA_015891985.1	GCA_015891985.1	SAMN12388746	PRJNA514245	2018	"	China: Tangshan"	patient	sputum
+Corynebacterium striatum	ICDC.Cs401	GCA_015892005.1	GCA_015892005.1	SAMN12388739	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum		GCA_015892025.1	GCA_015892025.1	SAMN06624490	PRJNA514245	unknown	missing	Homo sapiens	Missing
+Corynebacterium striatum	ICDC.Cs412	GCA_015892045.1	GCA_015892045.1	SAMN12388745	PRJNA514245	2018	China: Tangshan	patient	sputum
+Corynebacterium striatum	ICDC.Cs362	GCA_015892065.1	GCA_015892065.1	SAMN12388709	PRJNA514245	2017	China: Tangshan	patient	sputum
+Corynebacterium striatum		GCA_015892105.1	GCA_015892105.1	SAMN06624491	PRJNA514245	unknown	missing	Homo sapiens	Missing
+Corynebacterium striatum	NJ1	GCA_015892295.1	GCA_015892295.1	SAMN16337255	PRJNA514245	2019	"	USA: Milwaukee, WI"		
+Corynebacterium striatum	ICDC.Cs204	GCA_015913055.1	GCA_015913055.1	SAMN12388668	PRJNA514245	2017	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs185	GCA_015944615.1	GCA_015944615.1	SAMN10663096	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs488	GCA_015944675.1	GCA_015944675.1	SAMN10663171	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs471	GCA_015944695.1	GCA_015944695.1	SAMN10663164	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs476	GCA_015944715.1	GCA_015944715.1	SAMN10663167	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs475	GCA_015944735.1	GCA_015944735.1	SAMN10663166	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs198	GCA_015944755.1	GCA_015944755.1	SAMN10663102	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs477	GCA_015944775.1	GCA_015944775.1	SAMN10663168	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs481	GCA_015944795.1	GCA_015944795.1	SAMN10663169	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs181	GCA_015944815.1	GCA_015944815.1	SAMN10663094	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs491	GCA_015945195.1	GCA_015945195.1	SAMN10663173	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs194	GCA_015945255.1	GCA_015945255.1	SAMN10663100	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs484	GCA_015945275.1	GCA_015945275.1	SAMN10663170	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs474	GCA_015945295.1	GCA_015945295.1	SAMN10663165	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs297	GCA_015945355.1	GCA_015945355.1	SAMN10663133	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs159	GCA_015945475.1	GCA_015945475.1	SAMN10663084	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs162	GCA_015945535.1	GCA_015945535.1	SAMN10663086	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs178	GCA_015945575.1	GCA_015945575.1	SAMN10663092	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs163	GCA_015945595.1	GCA_015945595.1	SAMN10663087	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs206	GCA_015945635.1	GCA_015945635.1	SAMN10663103	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs160	GCA_015945675.1	GCA_015945675.1	SAMN10663085	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs492	GCA_015945695.1	GCA_015945695.1	SAMN10663174	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs208	GCA_015945715.1	GCA_015945715.1	SAMN10663104	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs214	GCA_015945735.1	GCA_015945735.1	SAMN10663106	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs179	GCA_015945755.1	GCA_015945755.1	SAMN10663093	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs222	GCA_015945775.1	GCA_015945775.1	SAMN10663110	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs227	GCA_015945785.1	GCA_015945785.1	SAMN10663111	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs219	GCA_015945795.1	GCA_015945795.1	SAMN10663109	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs212	GCA_015945805.1	GCA_015945805.1	SAMN10663105	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs217	GCA_015945815.1	GCA_015945815.1	SAMN10663108	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs236	GCA_015945875.1	GCA_015945875.1	SAMN10663113	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs165	GCA_015945895.1	GCA_015945895.1	SAMN10663088	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs231	GCA_015945915.1	GCA_015945915.1	SAMN10663112	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs173	GCA_015945935.1	GCA_015945935.1	SAMN10663089	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs260	GCA_015945955.1	GCA_015945955.1	SAMN10663123	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs258	GCA_015945985.1	GCA_015945985.1	SAMN10663122	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs252	GCA_015946005.1	GCA_015946005.1	SAMN10663118	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs241	GCA_015946025.1	GCA_015946025.1	SAMN10663115	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs254	GCA_015946045.1	GCA_015946045.1	SAMN10663120	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs253	GCA_015946065.1	GCA_015946065.1	SAMN10663119	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs237	GCA_015946085.1	GCA_015946085.1	SAMN10663114	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs251	GCA_015946105.1	GCA_015946105.1	SAMN10663117	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs245	GCA_015946145.1	GCA_015946145.1	SAMN10663116	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs255	GCA_015946165.1	GCA_015946165.1	SAMN10663121	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs177	GCA_015946265.1	GCA_015946265.1	SAMN10663091	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs174	GCA_015946325.1	GCA_015946325.1	SAMN10663090	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs296	GCA_015946445.1	GCA_015946445.1	SAMN10663132	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs268	GCA_015946465.1	GCA_015946465.1	SAMN10663126	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs273	GCA_015946485.1	GCA_015946485.1	SAMN10663129	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs433	GCA_015946505.1	GCA_015946505.1	SAMN10663148	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs314	GCA_015946525.1	GCA_015946525.1	SAMN10663142	PRJNA514245	2017	China: Beijing	Homo sapiens	urine
+Corynebacterium striatum	ICDC.Cs437	GCA_015946545.1	GCA_015946545.1	SAMN10663151	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs307	GCA_015946565.1	GCA_015946565.1	SAMN10663137	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs302	GCA_015946585.1	GCA_015946585.1	SAMN10663136	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs299	GCA_015946595.1	GCA_015946595.1	SAMN10663134	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs427	GCA_015946625.1	GCA_015946625.1	SAMN10663145	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs272	GCA_015946645.1	GCA_015946645.1	SAMN10663128	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs423	GCA_015946665.1	GCA_015946665.1	SAMN10663143	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs431	GCA_015946685.1	GCA_015946685.1	SAMN10663147	PRJNA514245	2018	China: Beijing	Homo sapiens	urine
+Corynebacterium striatum	ICDC.Cs442	GCA_015946705.1	GCA_015946705.1	SAMN10663154	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs429	GCA_015946725.1	GCA_015946725.1	SAMN10663146	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs301	GCA_015946745.1	GCA_015946745.1	SAMN10663135	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs441	GCA_015946765.1	GCA_015946765.1	SAMN10663153	PRJNA514245	2018	China: Beijing	Homo sapiens	blood
+Corynebacterium striatum	ICDC.Cs274	GCA_015946775.1	GCA_015946775.1	SAMN10663130	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs466	GCA_015946805.1	GCA_015946805.1	SAMN10663161	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs449	GCA_015946825.1	GCA_015946825.1	SAMN10663155	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs263	GCA_015946845.1	GCA_015946845.1	SAMN10663124	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs453	GCA_015946865.1	GCA_015946865.1	SAMN10663156	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs465	GCA_015946885.1	GCA_015946885.1	SAMN10663160	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs265	GCA_015946905.1	GCA_015946905.1	SAMN10663125	PRJNA514245	2017	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs460	GCA_015946925.1	GCA_015946925.1	SAMN10663159	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs269	GCA_015946945.1	GCA_015946945.1	SAMN10663127	PRJNA514245	2017	China: Guangzhou	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs312	GCA_015946965.1	GCA_015946965.1	SAMN10663141	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs308	GCA_015946985.1	GCA_015946985.1	SAMN10663138	PRJNA514245	2018	China: Beijing	patient	sputum
+Corynebacterium striatum	ICDC.Cs436	GCA_015947005.1	GCA_015947005.1	SAMN10663150	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs311	GCA_015947025.1	GCA_015947025.1	SAMN10663140	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs309	GCA_015947045.1	GCA_015947045.1	SAMN10663139	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs425	GCA_015947065.1	GCA_015947065.1	SAMN10663144	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs467	GCA_015947085.1	GCA_015947085.1	SAMN10663162	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs459	GCA_015947105.1	GCA_015947105.1	SAMN10663158	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs469	GCA_015947125.1	GCA_015947125.1	SAMN10663163	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs456	GCA_015947945.1	GCA_015947945.1	SAMN10663157	PRJNA514245	2018	China: Beijing	Homo sapiens	sputum
+Corynebacterium striatum		GCA_016084495.1	GCA_016084495.1	SAMN06680407	PRJNA278886	2017	USA:Boston	Homo sapiens	bronchial alveolar lavage
+Corynebacterium striatum		GCA_016084535.1	GCA_016084535.1	SAMN06015659	PRJNA278886	2016	USA:Boston	Homo sapiens	sputum
+Corynebacterium striatum		GCA_016084555.1	GCA_016084555.1	SAMN06129830	PRJNA278886	2016	USA:Boston	Homo sapiens	Bronchial alveolar lavage
+Corynebacterium striatum		GCA_016085355.1	GCA_016085355.1	SAMN06015660	PRJNA278886	2016	USA:Boston	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs038	GCA_016088575.1	GCA_016088575.1	SAMN05178546	PRJNA278886	2016	USA:Boston	Homo sapiens	sputum
+Corynebacterium striatum	ICDC.Cs075	GCA_016109815.1	GCA_016109815.1	SAMN12388640	PRJNA514245	2016	China: Beijing	patient	sputum
+Corynebacterium striatum	FDAARGOS_1054	GCA_016403285.1	GCA_016403285.1	SAMN16357223	PRJNA231221	unknown	Germany: Braunschweig	missing	missing
+Corynebacterium striatum	FDAARGOS_1115	GCA_016728105.1	GCA_016728105.1	SAMN16357284	PRJNA231221	unknown	Germany: Braunschweig	missing	missing
+Corynebacterium striatum	FDAARGOS_1116	GCA_016728205.1	GCA_016728205.1	SAMN16357285	PRJNA231221	unknown	Germany: Braunschweig	missing	missing
+Corynebacterium striatum	FDAARGOS_1197	GCA_016889445.1	GCA_016889445.1	SAMN16357339	PRJNA231221	unknown	Germany: Braunschweig	missing	missing
+Corynebacterium striatum	Corynebacterium striatum	GCA_018144015.1	GCA_018144015.1	SAMEA6658274	PRJNA514245	2018	Denmark	Homo sapiens	sputum
+Corynebacterium striatum	Corynebacterium striatum	GCA_018164715.1	GCA_018164715.1	SAMEA6656686	PRJNA514245	2018	Denmark	Homo sapiens	Swab toe
+Corynebacterium striatum	Corynebacterium striatum	GCA_018178195.1	GCA_018178195.1	SAMEA6656735	PRJNA514245	2018	Denmark	Homo sapiens	Swab wound
+Corynebacterium striatum	NCTC9755	GCA_900447625.1	GCA_900447625.1	SAMEA104016175	PRJEB6403	1900/1952	missing	not available	not available: to be reported later
+Corynebacterium striatum	NCTC764	GCA_900447675.1	GCA_900447675.1	SAMEA4521472	PRJEB6403	1900/1920	missing	not available	not available: to be reported later
+Corynebacterium striatum	3012STDY7069329	GCA_900683645.1	GCA_900683645.1	SAMEA104224803	PRJEB6403	1800/2014	missing	not available	not available
